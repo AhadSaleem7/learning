@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firstreactwebsite/static/css/main.f855e6bc.css",
-    "main.js": "/firstreactwebsite/static/js/main.5aa7174f.js",
-    "static/js/453.5be075eb.chunk.js": "/firstreactwebsite/static/js/453.5be075eb.chunk.js",
-    "index.html": "/firstreactwebsite/index.html",
-    "main.f855e6bc.css.map": "/firstreactwebsite/static/css/main.f855e6bc.css.map",
-    "main.5aa7174f.js.map": "/firstreactwebsite/static/js/main.5aa7174f.js.map",
-    "453.5be075eb.chunk.js.map": "/firstreactwebsite/static/js/453.5be075eb.chunk.js.map"
+    "main.css": "/learning/static/css/main.f855e6bc.css",
+    "main.js": "/learning/static/js/main.9f313e4a.js",
+    "static/js/453.5be075eb.chunk.js": "/learning/static/js/453.5be075eb.chunk.js",
+    "index.html": "/learning/index.html",
+    "main.f855e6bc.css.map": "/learning/static/css/main.f855e6bc.css.map",
+    "main.9f313e4a.js.map": "/learning/static/js/main.9f313e4a.js.map",
+    "453.5be075eb.chunk.js.map": "/learning/static/js/453.5be075eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5aa7174f.js"
+    "static/js/main.9f313e4a.js"
   ]
 }
